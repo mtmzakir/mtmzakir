@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently Following **Bachelor of Software Engineering Degree**
 - 👨‍💻 I’m learning at **The Open University of Sri Lanka**
-- 📝 I regularly write articles on **getimore.co** | **exdev.co**
+- 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 How to reach me **mtm.zakir@gmail.com**
 - 📄 Know about me at **www.linkedin.com/in/mtmzakir**
 - ⚡ Fun fact **I think I'm Funny**
