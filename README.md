@@ -21,7 +21,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zakir</h1>
 
 ### About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineering Undergraduate from Sri Lanka.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><h3> Software Engineering Undergraduate from Sri Lanka.</h3>
 
 - 🎓 I’m currently Following **Bachelor of Software Engineering Degree**
 - 👨‍💻 I’m learning at **The Open University of Sri Lanka**
