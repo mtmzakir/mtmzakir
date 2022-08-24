@@ -22,9 +22,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineering Undergraduate from Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mtmzakir)
+- 🔭 I’m currently Following **Bachelor of Software Engineering Degree**
+- 👨‍💻 I’m learning at **The Open University of Sri Lanka**
+- 📝 I regularly write articles on [getimore.co](getimore.co) | [exdev.co](exdev.co)
+- 📫 How to reach me **mtm.zakir@gmail.com**
+- 📄 Know about me at [www.linkedin.com/in/mtmzakir](www.linkedin.com/in/mtmzakir)
+- ⚡ Fun fact **I think I'm Funny**
