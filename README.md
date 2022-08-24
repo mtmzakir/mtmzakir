@@ -16,12 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=mtmzakir&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zakir
-</h1>
-<h6 align="center">Software Engineering Undergraduate Student</h6>
 ---
+
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zakir
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mtmzakir&style=flat-square&color=blue" alt=""/>
+</h2>
 
 ### About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineering Undergraduate from Sri Lanka.
