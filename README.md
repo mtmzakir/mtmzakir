@@ -26,12 +26,13 @@
 ### About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineering Undergraduate from Sri Lanka.
 
-- 🔭 I’m currently Following **Bachelor of Software Engineering Degree**
+- 🎓 I’m currently Following **Bachelor of Software Engineering Degree**
 - 👨‍💻 I’m learning at **The Open University of Sri Lanka**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 How to reach me **mtm.zakir@gmail.com**
 - 📄 Know about me at **www.linkedin.com/in/mtmzakir**
 - ⚡ Fun fact **I think I'm Funny**
+- 🎖️ Track my Future Career Bridge URL **https://app.futurecareersbridge.net/public-profile/19748**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
