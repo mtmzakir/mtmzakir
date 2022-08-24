@@ -17,13 +17,13 @@
 </div>
 
 
-<h1>
+<h1 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>I'm Zakir
 </h1>
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Software Engineering Undergraduate from Sri Lanka.
 
 - 🔭 I’m currently Following **Bachelor of Software Engineering Degree**
@@ -44,7 +44,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -65,5 +65,5 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtmzakir&theme=dark&background=000000)](https://git.io/streak-stats)
+### My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtmzakir&theme=dark&background=0d1117)](https://git.io/streak-stats)
