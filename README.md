@@ -28,8 +28,9 @@
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 How to reach me **mtm.zakir@gmail.com**
 - 📄 Know about me at **www.linkedin.com/in/mtmzakir**
-- ⚡ Fun fact **I think I'm Funny**
 - 🎖️ Track my Future Career Bridge URL **https://app.futurecareersbridge.net/public-profile/19748**
+- ⚡ Fun fact **I think I'm Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
