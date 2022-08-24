@@ -28,5 +28,5 @@
 - 👨‍💻 I’m learning at **The Open University of Sri Lanka**
 - 📝 I regularly write articles on [getimore.co](getimore.co) | [exdev.co](exdev.co)
 - 📫 How to reach me **mtm.zakir@gmail.com**
-- 📄 Know about me at [www.linkedin.com/in/mtmzakir](www.linkedin.com/in/mtmzakir)
+- 📄 Know about me at **www.linkedin.com/in/mtmzakir**
 - ⚡ Fun fact **I think I'm Funny**
