@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtmzakir&show_icons=true&locale=en&layout=compact" alt="mtmzakir" /></p>
 <p>  </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtmzakir&show_icons=true&locale=en" alt="mtmzakir" /></p>
+<p>&nbsp;<img align="center" background-color="black" src="https://github-readme-stats.vercel.app/api?username=mtmzakir&show_icons=true&locale=en" alt="mtmzakir" /></p>
 <p>  </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtmzakir&" alt="mtmzakir" /></p>
