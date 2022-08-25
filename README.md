@@ -18,8 +18,7 @@
 
 ---
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to My Profile</h1>
-<h2 align="center">I'm Zakir</h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to My Profile <br> I'm Zakir</h1>
 
 ### About Me :
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><strong> Software Engineering Undergraduate from Sri Lanka.</strong>
