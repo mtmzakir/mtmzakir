@@ -16,8 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=mtmzakir&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  Welcome to My Profile <br> I'm Zakir</h1>
 
 ### About Me :
