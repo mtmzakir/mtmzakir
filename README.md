@@ -1,4 +1,4 @@
-![Undergraduate Student (5)](https://user-images.githubusercontent.com/90142607/188233642-a6da2229-aa0b-4272-86a3-d0e8f6d8354e.gif)
+###![Undergraduate Student (5)](https://user-images.githubusercontent.com/90142607/188233642-a6da2229-aa0b-4272-86a3-d0e8f6d8354e.gif)
 
 <div align="center">
   <a href="https://www.facebook.com/mtm.zakir/" target="_blank">
@@ -26,7 +26,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mtmzakir/count.svg?"  />
+</div>
 
+###
 ---
 ![Untitled design](https://user-images.githubusercontent.com/90142607/188233665-2beced15-3c76-4ed0-8277-2369ff735255.gif)
 
@@ -39,3 +43,8 @@
 - 🎖️ Track my Future Career Bridge URL **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 Contact Email is **mtm.zakir@gmail.com**
+
+
+<img href="https://raw.githubusercontent.com/mtmzakir/mtmzakir/blob/output/snake.svg" alt="Snake animation" />
+
+###
