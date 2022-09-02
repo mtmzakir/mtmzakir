@@ -35,7 +35,7 @@
 - 👨‍💻 I'm a 2nd year student pursuing **Bachelor's of Software Engineer in The Open University of Sri Lanka.**
 - 📄 I'm a passionate learner who's always willing to learn and work across technologies. 
 - ⚡ I love to explore new technologies and try to solve real-life problems. 
-- 📫 Apart from that also love to guide mentor newbies. I'm currently into <b>Full-Stack Develpment</b> and working on <b>Machine Learning</b>
+- 📫 Apart from that also love to guide mentor newbies. I'm currently into **Full-Stack Develpment** and working on **Machine Learning**
 - 🎖️ Track my Future Career Bridge URL **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 Contact Email is **mtm.zakir@gmail.com**
