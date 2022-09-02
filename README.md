@@ -1,4 +1,4 @@
-###![Undergraduate Student (5)](https://user-images.githubusercontent.com/90142607/188233642-a6da2229-aa0b-4272-86a3-d0e8f6d8354e.gif)
+![Undergraduate Student](https://user-images.githubusercontent.com/90142607/188239152-82d3f3f0-821d-46f1-9eb4-643e54baca81.gif)
 
 <div align="center">
   <a href="https://www.facebook.com/mtm.zakir/" target="_blank">
@@ -28,7 +28,7 @@
 </div>
 
 ---
-![Untitled design](https://user-images.githubusercontent.com/90142607/188233665-2beced15-3c76-4ed0-8277-2369ff735255.gif)
+![Uploading Untitled design (1).gif…]()
 
 ### Welcome to my GitHub Profile!
 - 🎓 I'm Zakir, Undergaraduate Student from <b>Sri Lanka.</b>
@@ -82,7 +82,7 @@
 --- 
 ### Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="200" alt="languages graph"  />
 </div>
 
