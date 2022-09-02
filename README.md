@@ -1,4 +1,5 @@
-![Undergraduate Student](https://user-images.githubusercontent.com/90142607/188239152-82d3f3f0-821d-46f1-9eb4-643e54baca81.gif)
+![Undergraduate Student (1)](https://user-images.githubusercontent.com/90142607/188240005-a605be76-9b42-493d-8124-7ed1b755857f.gif)
+
 
 <div align="center">
   <a href="https://www.facebook.com/mtm.zakir/" target="_blank">
@@ -30,19 +31,19 @@
 ---
 ![Untitled design (1)k](https://user-images.githubusercontent.com/90142607/188239294-ee80ce32-8cc8-4af2-8294-f52abbef2138.gif)
 
-### Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 - 🎓 I'm Zakir, Undergaraduate Student from <b>Sri Lanka.</b>
 - 👨‍💻 I'm a 2nd year student pursuing **Bachelor's of Software Engineer in The Open University of Sri Lanka.**
 - 📄 I'm a passionate learner who's always willing to learn and work across technologies. 
 - ⚡ I love to explore new technologies and try to solve real-life problems. 
-- 📫 Apart from that also love to guide mentor newbies. I'm currently into **Full-Stack Develpment** and working on **Machine Learning**
+- 📌 Apart from that also love to guide mentor newbies. I'm currently into **Full-Stack Develpment** and working on **Machine Learning**
 - 🎖️ Track my Future Career Bridge URL **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
-- 📫 Contact Email is **mtm.zakir@gmail.com**
+- 📧 Contact Email is **mtm.zakir@gmail.com**
 
 ---
 
-### Languages and Frameworks
+## Languages and Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -60,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
 </div>
 
-### Extra Tools
+#### Extra Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
@@ -80,7 +81,7 @@
 </div>
 
 --- 
-### Stats
+## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
@@ -88,7 +89,7 @@
 
 ---
 
-<h2 align="center">Thanks for Visiting</h2>
+<h2 align="center">Thanks for Visiting 🥰</h2>
 
 
 
