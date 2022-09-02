@@ -27,11 +27,10 @@
   </a>
 </div>
 
-###
 ---
 ![Untitled design](https://user-images.githubusercontent.com/90142607/188233665-2beced15-3c76-4ed0-8277-2369ff735255.gif)
 
-#### Welcome to my GitHub Profile!
+### Welcome to my GitHub Profile!
 - 🎓 I'm Zakir, Undergaraduate Student from <b>Sri Lanka.</b>
 - 👨‍💻 I'm a 2nd year student pursuing **Bachelor's of Software Engineer in The Open University of Sri Lanka.**
 - 📄 I'm a passionate learner who's always willing to learn and work across technologies. 
@@ -41,8 +40,8 @@
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📫 Contact Email is **mtm.zakir@gmail.com**
 
-#### Languages and Frameworks
-<div align="center">
+### Languages and Frameworks
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -59,8 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
 </div>
 
-#### Extra Tools
-<div align="center">
+### Extra Tools
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
