@@ -1,5 +1,4 @@
-![Undergraduate Student (1)](https://user-images.githubusercontent.com/90142607/188240005-a605be76-9b42-493d-8124-7ed1b755857f.gif)
-
+![Undergraduate Student (2)](https://user-images.githubusercontent.com/90142607/188240174-1d2f00ec-2b8e-46f2-856d-f90aa3082563.gif)
 
 <div align="center">
   <a href="https://www.facebook.com/mtm.zakir/" target="_blank">
