@@ -88,7 +88,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 <div align="center">
-<h3>Thanks for Profile View++ 🥰</h3>
+<h3>Thank U 🥰 for Profile View++ </h3>
   <img src="https://profile-counter.glitch.me/mtmzakir/count.svg?"  />
 </div>
 
