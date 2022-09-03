@@ -30,9 +30,9 @@
 ---
 ![Untitled design (1)k](https://user-images.githubusercontent.com/90142607/188239294-ee80ce32-8cc8-4af2-8294-f52abbef2138.gif)
 
-## Welcome to my GitHub Profile!
-<p align="justify"> I'm Zakir from <b>Sri Lanka</b>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
-I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. 
+## Welcome to my Profile!
+<p align="justify"> I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
+I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
 - 👨‍💻 I'm Currently working on something cool...
@@ -80,7 +80,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </div>
 
 --- 
-## GitHub Stats
+## Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
