@@ -35,7 +35,7 @@
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
-- 👨‍💻 I'm Currently working on something cool...
+- 👨‍💻 I'm Currently working on something cool... <img align="right" height="180" src="https://user-images.githubusercontent.com/90142607/188255155-4106c58f-bb73-47d0-9b5f-4a19cdbf371b.png"/>
 - ⚡ I'm Currently learning **Full-Stack Development, Machine Learning and UI Design**
 - 🎖️ Track my Future Career Bridge Profile **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
