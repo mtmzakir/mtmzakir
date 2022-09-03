@@ -32,19 +32,19 @@
 
 ## Welcome to my GitHub Profile!
 
-<p align="justify"> I'm Zakir from <b>Sri Lanka. </b>I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em>
-I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. I'm currently into <em>Full-Stack Develpment</em> and working on <em>Machine Learning</em> </p>
+<p align="justify"> I'm Zakir from <b>Sri Lanka</b>.I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em>
+I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. 
 
 ## Personal Stuffs
 - 👨‍💻 I'm Currently working on something cool...
-- ⚡ I'm Currently learning Full-Stack Development and UI Design...
+- ⚡ I'm Currently learning **Full-Stack Development, Machine Learning and UI Design**
 - 🎖️ Track my Future Career Bridge Profile **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📧 How to reach me **mtm.zakir@gmail.com** 
 
 ---
 
-## Work with Languages and Frameworks
+## Currently working with Languages and Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
