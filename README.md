@@ -31,8 +31,7 @@
 ![Untitled design (1)k](https://user-images.githubusercontent.com/90142607/188239294-ee80ce32-8cc8-4af2-8294-f52abbef2138.gif)
 
 ## Welcome to my GitHub Profile!
-
-<p align="justify"> I'm Zakir from <b>Sri Lanka</b>.I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em>
+<p align="justify"> I'm Zakir from <b>Sri Lanka</b>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. 
 
 ## Personal Stuffs
@@ -44,7 +43,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ---
 
-## Currently working with Languages and Frameworks
+## Currently Working With 
+#### Languages and Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
