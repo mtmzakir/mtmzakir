@@ -41,8 +41,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📧 How to reach me **mtm.zakir@gmail.com** 
 
----
-
 ## Currently Working With 
 #### Languages and Frameworks
 <div align="left">
