@@ -85,7 +85,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
 </div>
+
 ---
+
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Algorithms in Programming](https://www.exdev.co/2022/08/algorithms-in-programming.html)
@@ -105,6 +107,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ---
+
 <div align="center">
 <h3 >Thank U 🥰 for Profile View++ </h3>
   <img src="https://profile-counter.glitch.me/mtmzakir/count.svg?"  />
