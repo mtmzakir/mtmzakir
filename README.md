@@ -84,7 +84,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </div>
 <div align="center">     
     <a href="https://github.com/mtmzakir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtmzakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
+        <img title="🔥Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtmzakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
 </div>
 
 ## Latest Blog Posts
