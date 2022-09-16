@@ -27,7 +27,6 @@
   </a>
 </div>
 
----
 ![Git Greetings](https://user-images.githubusercontent.com/90142607/190705934-56de0fce-fb24-44ed-9d21-90b654c23552.gif)
 
 ## About Me
@@ -41,8 +40,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📧 How to reach me **mtm.zakir@gmail.com** 
   
-## Currently Working With 
-#### Languages and Frameworks
+## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
@@ -58,10 +56,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
-</div>
-
-#### Extra Tools
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
@@ -79,16 +73,19 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
---- 
 ## Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
 </div>
-
+<div align="center">      
 <a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mtmzakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
----
+</div>
+<div align="center">     
+    <a href="https://github.com/mtmzakir/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtmzakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
+</div>
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -107,24 +104,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - [MATHS GRADE - 11 | அலகு 09 - சதவீதம் பாகம் - 3 | A.M. Safiullah Sir | Nintavur](https://www.youtube.com/watch?v=ho1in0oOjss)
 - [MATHS GRADE - 11 | அலகு 09 - சதவீதம் பாகம் - 2 | A.M. Safiullah Sir | Nintavur](https://www.youtube.com/watch?v=ubMcsufV42c)
 <!-- YOUTUBE-VIDEO-LIST:END -->
-
----
-<details>
-  <summary><b>Tips</b></summary>
-  
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-  
-</details>
 
 <div align="center">
 <h3 >Thank U 🥰 for Profile View++ </h3>
