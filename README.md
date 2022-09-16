@@ -1,4 +1,4 @@
-![Undergraduate Student (2)](https://user-images.githubusercontent.com/90142607/188240174-1d2f00ec-2b8e-46f2-856d-f90aa3082563.gif)
+![Undergraduate Student](https://user-images.githubusercontent.com/90142607/190705891-b802282d-ba26-4d32-b12b-80a955913139.gif)
 
 <div align="center">
   <a href="https://www.facebook.com/mtm.zakir/" target="_blank">
@@ -28,14 +28,14 @@
 </div>
 
 ---
-![Untitled design (1)k](https://user-images.githubusercontent.com/90142607/188239294-ee80ce32-8cc8-4af2-8294-f52abbef2138.gif)
+![Git Greetings](https://user-images.githubusercontent.com/90142607/190705934-56de0fce-fb24-44ed-9d21-90b654c23552.gif)
 
 ## About Me
 <p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
 I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems. Apart from that also love to guide mentor newbies. </p>
 
 ## Personal Stuffs
-- 👨‍💻 I'm Currently working on something cool... <img align="right" height="150" src="https://user-images.githubusercontent.com/90142607/188255250-b02b8f77-aae3-4637-a91e-fab87c406a48.png"/>
+- 👨‍💻 I'm Currently working on something cool... <img align="right" height="150" src="https://user-images.githubusercontent.com/90142607/190706608-d9a333b2-10c6-4069-a839-f477c61190d2.png"/>
 - ⚡ I'm Currently learning **Full-Stack Development, Machine Learning and UI Design**
 - 🎖️ Track my Future Career Bridge Profile **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
@@ -81,11 +81,13 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 --- 
 ## Stats 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&&bg_color=0D1117&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
 </div>
-<a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mtmzakir&bg_color=0D1117&color=FE652F&line=FE652F&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mtmzakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
 ---
 
 ## Latest Blog Posts
