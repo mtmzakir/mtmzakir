@@ -79,6 +79,15 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
+---
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Latest Youtube Videos
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
+
 --- 
 ## Stats 
 <div align="center">
