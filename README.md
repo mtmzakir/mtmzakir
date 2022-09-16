@@ -26,8 +26,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="27"/>
   </a>
 </div>
-
 <br>
+
 ![Git Greetings (2)](https://user-images.githubusercontent.com/90142607/190711489-96cb72ae-cf1b-4339-912f-9f251847f440.gif)
 
 ## About Me
