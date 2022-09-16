@@ -109,6 +109,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ---
 <details>
   <summary><b>Tips</b></summary>
+  
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -120,6 +121,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ```
+  
 </details>
 
 <div align="center">
