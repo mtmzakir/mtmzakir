@@ -79,6 +79,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
+--- 
+## Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
+</div>
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -97,13 +103,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - [MATHS GRADE - 11 | அலகு 09 - சதவீதம் பாகம் - 3 | A.M. Safiullah Sir | Nintavur](https://www.youtube.com/watch?v=ho1in0oOjss)
 - [MATHS GRADE - 11 | அலகு 09 - சதவீதம் பாகம் - 2 | A.M. Safiullah Sir | Nintavur](https://www.youtube.com/watch?v=ubMcsufV42c)
 <!-- YOUTUBE-VIDEO-LIST:END -->
-
---- 
-## Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=mtmzakir" height="185" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
-</div>
 
 ---
 <div align="center">
