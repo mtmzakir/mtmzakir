@@ -40,7 +40,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🎖️ Track my Future Career Bridge Profile **https://app.futurecareersbridge.net/public-profile/19748**
 - 📝 I regularly write articles on **www.getimore.co** | **www.exdev.co**
 - 📧 How to reach me **mtm.zakir@gmail.com** 
-
+  
 ## Currently Working With 
 #### Languages and Frameworks
 <div align="left">
@@ -107,6 +107,20 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 ---
+<details>
+  <summary><b>Tips</b></summary>
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+</details>
 
 <div align="center">
 <h3 >Thank U 🥰 for Profile View++ </h3>
