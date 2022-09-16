@@ -27,7 +27,7 @@
   </a>
 </div>
 
-![Git Greetings](https://user-images.githubusercontent.com/90142607/190705934-56de0fce-fb24-44ed-9d21-90b654c23552.gif)
+![Git Greetings (1)](https://user-images.githubusercontent.com/90142607/190711265-5a68e812-18a9-477a-8cf5-7cac487b6b13.gif)
 
 ## About Me
 <p align="justify" > I'm <b>Zakir</b> from <em>Sri Lanka</em>. I'm a 2nd year student pursuing <em>Bachelor's of Software Engineer in The Open University of Sri Lanka.</em> 
