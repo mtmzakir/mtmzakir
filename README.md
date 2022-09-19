@@ -93,8 +93,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - [Algorithms in Programming](https://www.exdev.co/2022/08/algorithms-in-programming.html)
 - [uTorrent Pro v3.5.5.46096 Full Free Download](https://www.exdev.co/2022/08/utorrent-pro-v35546096-full-free.html)
 - [Stop Comparing yourself to Other](https://www.exdev.co/2022/08/stop-comparing-yourself-to-other.html)
-- [To overcome challenges, stop comparing yourself to others | Dean Furness](https://www.exdev.co/2022/08/to-overcome-challenges-stop-comparing.html)
 - [Dreams to Reality](https://www.exdev.co/2022/08/dreams-to-reality.html)
+- [To overcome challenges, stop comparing yourself to others | Dean Furness](https://www.exdev.co/2022/08/to-overcome-challenges-stop-comparing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Youtube Videos
