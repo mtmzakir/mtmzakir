@@ -81,7 +81,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtmzakir" height="185" alt="languages graph"  />
 </div>
 <div align="center">      
-<a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mtmzakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mtmzakir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtmzakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
 </div>
 <div align="center">     
     <a href="https://github.com/mtmzakir/github-readme-streak-stats">
