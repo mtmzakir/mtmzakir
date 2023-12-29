@@ -149,11 +149,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ## Latest Youtube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [Thompukandam Resort | Nintavur | The Vlog](https://www.youtube.com/watch?v=lqG3EzW0J44)
 - [Supercharge  Your Torrent Downloads with Seedr.cc | My Secret Download Weapon](https://www.youtube.com/watch?v=rTHFyE3fsXg)
 - [Node JS Installation with Expo CLI | Tamil](https://www.youtube.com/watch?v=DEX6aOEPA6o)
 - [COVID-19 | Important Daily  Tips To Prevent The Spread Of Corona Virus](https://www.youtube.com/watch?v=PR7d5b0AcSc)
 - [Office 365 and Teams Installation](https://www.youtube.com/watch?v=xcwVe1CdcLM)
-- [MATHS GRADE - 11 | அலகு 09 - சதவீதம் பாகம் - 3 | A.M. Safiullah Sir | Nintavur](https://www.youtube.com/watch?v=ho1in0oOjss)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 <div align="center">
